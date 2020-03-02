@@ -1,0 +1,19 @@
+{
+  "name": "pesto",
+  "version": "1.0.0",
+  "description": "Welcome to <>.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshwar607/pesto-pre-curriculum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshwar607/pesto-pre-curriculum/issues"
+  },
+  "homepage": "https://github.com/yogeshwar607/pesto-pre-curriculum#readme"
+}
